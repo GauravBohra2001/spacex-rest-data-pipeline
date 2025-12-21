@@ -42,4 +42,4 @@ Table: `rockets`
 * `name` TEXT
 * `active` INTEGER
 * `stages` INTEGER
->>>>>>> 5c57a25 (Initial commit: SpaceX rockets REST API pipeline)
+
