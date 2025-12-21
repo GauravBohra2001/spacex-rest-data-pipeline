@@ -1,0 +1,14 @@
+{
+    "api": {
+        "base_url" : "https://api.spacexdata.com",
+        "endpoint" : "/v4/rockets",
+        "timeout_seconds" : 20
+    },
+
+    "output" : {
+        "data_dir" : "data",
+        "json_file" : "rockets.json",
+        "csv_file" : "rockets.csv",
+        "db_file" : "rockets.db" 
+    }
+}

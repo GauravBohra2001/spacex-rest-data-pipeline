@@ -1,0 +1,26 @@
+[
+    {
+        "id": "5e9d0d95eda69955f709d1eb",
+        "name": "Falcon 1",
+        "active": 0,
+        "stages": 2
+    },
+    {
+        "id": "5e9d0d95eda69973a809d1ec",
+        "name": "Falcon 9",
+        "active": 1,
+        "stages": 2
+    },
+    {
+        "id": "5e9d0d95eda69974db09d1ed",
+        "name": "Falcon Heavy",
+        "active": 1,
+        "stages": 2
+    },
+    {
+        "id": "5e9d0d96eda699382d09d1ee",
+        "name": "Starship",
+        "active": 0,
+        "stages": 2
+    }
+]
